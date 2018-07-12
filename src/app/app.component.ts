@@ -26,8 +26,8 @@ export class MyApp {
     this.pages = [
       { title: 'Home',icon: 'home',component: HomePage },
       { title: 'About',icon:'information-circle',component: AboutPage },
-      {title: 'Contact',icon:'list-box',component:ContactPage},
-      {title: 'Menu',icon:'contact',component:MenuPage}
+      {title: 'Contact',icon:'contact',component:ContactPage},
+      {title: 'Menu',icon:'list-box',component:MenuPage}
     ];
 
   }
